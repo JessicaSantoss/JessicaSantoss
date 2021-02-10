@@ -3,6 +3,8 @@
 <h3 align="center">
   Olá, me chamo Jéssica!
 </h3>
+
+---
  
 Formada em Tradução e Interprete pela UNINOVE e Técnica em Informática pela Etec Paulistano, atualmente e participo de um bootcamp intensivo de Desenvolvedor Full Stack Java Junior pela [Generation Brasil](https://brazil.generation.org), onde já tive a oportunidade de conhecer a linguagem Java, utilizando utilizando a Spring Boot como framework e MySQL para Banco de Dados. Tive também a oportunidade de conhecer e desenvolver projetos em Angular e Bootstrap. 
 
