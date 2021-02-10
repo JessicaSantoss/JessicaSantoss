@@ -2,7 +2,7 @@
  
 # Welcome!
  
-<h3> :woman_tone1: Meu nome é Jéssica! </h3>
+<h3> :woman: &nbsp; Meu nome é Jéssica! </h3>
  
 … Insira suas descrições aqui!
  
