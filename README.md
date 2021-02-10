@@ -1,4 +1,4 @@
-<img align="right" width="450" height="400" alt="GIF" src="https://i.imgur.com/dwK5KH4.png">
+<img align="right" width="450" height="400" src="https://i.imgur.com/dwK5KH4.png">
  
 <h3 align="center">
   Olá, me chamo Jéssica!
@@ -17,7 +17,8 @@ Formada em Tradução e Interprete pela UNINOVE e Técnica em Informática pela 
  <a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a> <a> 
  <a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a> <a> 
  <a> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> </a> <a> 
- <a> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/> </a>   </p> 
+ <a> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/> </a>  <a> 
+ <a> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="PacoteOffice"/> </a>  </p> 
  
  
 ## Entre em contato comigo!  
