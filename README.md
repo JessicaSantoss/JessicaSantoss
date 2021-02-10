@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/dwK5KH4.png">
+<img align="right" width="600" height="600" src="https://i.imgur.com/dwK5KH4.png">
  
 <h3 align="center">
   Olá, me chamo Jéssica!
