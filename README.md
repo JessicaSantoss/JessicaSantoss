@@ -27,6 +27,8 @@ Meu mais recente projeto é o [Recomece](https://recomece.herokuapp.com/#/menu),
  
  </p> 
  
+ ---
+ 
 <h3 align="left">Fale comigo!</h3>
 
 <p align="left">
