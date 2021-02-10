@@ -12,6 +12,8 @@
  
 Formada em Tradução e Interprete pela UNINOVE e Técnica em Informática pela Etec Paulistano, atualmente participo de um bootcamp intensivo de Desenvolvedor Full Stack Java Junior pela [Generation Brasil](https://brazil.generation.org). 
 
+Meu mais recente projeto é o [Recomece](https://recomece.herokuapp.com/#/menu)
+
 ---
 
 <h3 align="center">Aplicações e Dados</h3>
