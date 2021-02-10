@@ -26,9 +26,6 @@ Meu mais recente projeto é o [Recomece](https://recomece.herokuapp.com/#/menu),
  <a> <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Visual Studio Code"/> </a>
  
  </p> 
-
-  
- ---
  
 ## Entre em contato comigo!  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%A9ssica-c-s-simoes)](https://www.linkedin.com/in/j%C3%A9ssica-c-s-simoes)
