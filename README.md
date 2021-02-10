@@ -1,4 +1,6 @@
-## Welcome! 
+<h2 align="center">
+  Welcome!
+</h2> 
 
 <img align="right" width="600" height="600" src="https://i.imgur.com/dwK5KH4.png">
  
