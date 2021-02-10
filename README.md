@@ -2,7 +2,7 @@
  
 # Welcome!
  
-<h3> Olá, meu nome é Jéssica! </h3>
+<h3 text-align-center> Olá, meu nome é Jéssica! </h3>
  
 … Insira suas descrições aqui!
  
