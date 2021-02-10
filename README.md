@@ -27,7 +27,7 @@ Meu mais recente projeto é o [Recomece](https://recomece.herokuapp.com/#/menu),
  <a> <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman"/> </a>
  <a> <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" alt="Trello"/> </a>
  <a> <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma"/> </a>
- <a> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/> </a>
+ <a> <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Visual Studio Code"/> </a>
  
  </p> 
 
