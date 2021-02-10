@@ -22,8 +22,11 @@ Formada em Tradução e Interprete pela UNINOVE e Técnica em Informática pela 
  <a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a> <a> 
  <a> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> </a> <a> 
  <a> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/> </a>  <a> 
- <a> <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman"/> </a>  </p> 
- 
+ <a> <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman"/> </a>
+ <a> <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" alt="Trello"/> </a>
+ <a> <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma"/> </a> 
+  </p> 
+  
  ---
  
 ## Entre em contato comigo!  
