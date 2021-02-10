@@ -1,7 +1,3 @@
-<h2 align="center">
-  Welcome!
-</h2> 
-
 <img align="right" width="400" height="400" src="https://i.imgur.com/dwK5KH4.png">
  
 <h3 align="center">
