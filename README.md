@@ -5,7 +5,7 @@
 </h3>
 
 ---
-Sou desenvolvedora Java formada pela [Generation Brasil](https://brazil.generation.org) e atualmente sou desenvolvedora Back-end no Santander Tecnologia. 
+Sou desenvolvedora Java formada pela [Generation Brasil](https://brazil.generation.org) e atualmente trabalho como desenvolvedora Back-end no Santander Tecnologia. 
 
 ---
 
