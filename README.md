@@ -6,7 +6,6 @@
 
 ---
 Desenvolvedora Java formada pela [Generation Brasil](https://brazil.generation.org) e técnica em Informática pela Etec Paulistano.
-Sempre muito curiosa e apaixonada por aprender coisas novas, me reencontrei no mundo da tecnologia e programação, tive a oportunidade de conhecer a linguagem Java, utilizando utilizando a Spring Boot como framework e MySQL para Banco de Dados.
 
 Meu mais recente projeto é o [Recomece](https://recomece.herokuapp.com/#/menu), acesse e saiba mais!
 
