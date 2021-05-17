@@ -5,9 +5,7 @@
 </h3>
 
 ---
-Desenvolvedora Java formada pela [Generation Brasil](https://brazil.generation.org) e técnica em Informática pela Etec Paulistano.
-
-Meu mais recente projeto é o [Recomece](https://recomece.herokuapp.com/#/menu), acesse e saiba mais!
+Sou desenvolvedora Java formada pela [Generation Brasil](https://brazil.generation.org) e atualmente sou desenvolvedora Back-end no Santander Tecnologia. 
 
 ---
 
